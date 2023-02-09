@@ -3,20 +3,20 @@ html {
 }
 
 body {
-    background-color: rgba(15, 2, 2, 0.863);
-    color: whitesmoke;
+    background-color: hsl(204, 24%, 96%);
+    color: hsla(0, 26%, 4%, 0.979);
 }
 
 a {
-   color: aliceblue; 
+   color: rgb(10, 13, 15); 
 }
 
 a :visited {
-    color:lightgray
+    color:rgb(22, 21, 21)
 }
 
   a:hover, a:active {
-    color: #eee;
+    color: #0f0f0f;
   }
   
   table, tr, th, caption {
